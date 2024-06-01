@@ -1,3 +1,9 @@
+'''
+complexity: O(m+n)
+memory: nums1 + nums2 
+'''
+
+
 class Solution:
     def findMedianSortedArrays(
         self, 
