@@ -72,7 +72,7 @@ int main() {
         };
 
     
-
+    
     for (auto x: vec){
         std::cout << x << std::endl;
         auto res = sol.myAtoi(x);
